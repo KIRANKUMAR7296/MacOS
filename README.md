@@ -1,2 +1,2 @@
-# Apple MacOS <img src='Image/AppleLogo.png' width=3%>
+# Apple MacOS <img src='Image/AppleLogo.png' width=2%>
 
