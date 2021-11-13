@@ -1,2 +1,2 @@
-<h1><img src='Image/AppleLogo.png' width=3%>&nbsp;Apple MacOS</h1>
+<h1><img src='Image/AppleLogo.png' width=2%>&nbsp;Apple MacOS</h1>
 
