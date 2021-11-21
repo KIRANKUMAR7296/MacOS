@@ -4,6 +4,7 @@
 
 Keys | Shortcuts 
 :---: | :---
+command + `tab` | Switch Between Apps
 command + `q` | Quit Window
 command + `w` | Close Window
 command + `t` | Open New Window
@@ -18,9 +19,10 @@ command + `c` | Copy
 command + `v` | Paste
 command + `m` | Minimize Window
 shift + command + `z` | Redo 
+`delete` | Backspace
+function + `delete` | Forward Delete
 command + `spacebar` | Spotlight Search
 control + command + `spacebar` | Emoji
-command + `tab` | Switch between apps
 shift + command + `5` | Screenshot and Recording Menu
 shift + command + `4` | Selection Screenshot
 shift + command + `3` | Full Page Screenshot
