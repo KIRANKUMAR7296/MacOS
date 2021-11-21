@@ -4,19 +4,20 @@
 
 Keys | Shortcuts 
 :---: | :---
+command + `q` | Quit Window
+command + `w` | Close Window
+command + `t` | Open New Window
+command + `p` | Print
+command + `a` | Select All
+command + `s` | Save
+command + `f` | Find
+command + `g` | Find Next Occurence
+command + `z` | Undo
+command + `x` | Cut
 command + `c` | Copy
 command + `v` | Paste
-command + `x` | Cut
-command + `z` | Undo
-shift + command + `z` | Redo
-command + `a` | Select all
-command + `f` | Find
-command + `g` | Find next occurence 
-command + `m` | Minimize to dock
-command + `p` | Print
-command + `s` | Save
-command + `t` | Open new tab
-command + `w` | Close window
+command + `m` | Minimize Window
+shift + command + `z` | Redo 
 command + `spacebar` | Spotlight Search
 control + command + `spacebar` | Emoji
 command + `tab` | Switch between apps
