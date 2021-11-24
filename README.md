@@ -2,6 +2,19 @@
 
 ![MAC](Image/MAC.png)
 
+Commmon `Office` for `MAC` keyboard Shortcut
+
+keys | Shortcuts
+:---: | :---
+Command + `N` | Create a new file
+Command + `S` | Save the file
+Command + `O` | Open the file
+Command + `W` | Close the File, Window or Application
+Command + `H` | Hide the Application or Window
+Command + `Q` | Quit the File, Windows or Application
+Command + `M` | Minimize the application
+Option + Command + `H` | Hide other applications
+
 Keys | Shortcuts 
 :---: | :---
 command + `tab` | Switch Between Apps
