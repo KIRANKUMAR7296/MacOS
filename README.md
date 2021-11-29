@@ -14,6 +14,7 @@ Command + `H` | Hide the Application or Window
 Command + `Q` | Quit the File, Windows or Application
 Command + `M` | Minimize the application
 Option + Command + `H` | Hide other applications
+Command + Shift + `.` | `Show` or `Hide` the `Hidden` folders and files in `Finder`
 
 Keys | Shortcuts 
 :---: | :---
